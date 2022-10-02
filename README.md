@@ -11,7 +11,7 @@ The main modules which are focused on this project: \
 -User registration \
 -Internal Marks of students \
 -Attendance of students \
--Reports of students’ tests \
+-Reports of students’ tests 
 
 ### Website URL:
 https://importal.azurewebsites.net/
