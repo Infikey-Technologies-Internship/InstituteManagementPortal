@@ -13,3 +13,6 @@ The main modules which are focused on this project:
 -Attendance of students \
 -Reports of students’ tests \
 
+## Screenshots
+
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AddAdmin.jpeg "Add Admin")
