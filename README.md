@@ -1,4 +1,4 @@
-### InstituteManagementPortal
+# InstituteManagementPortal
 
 ## Manual The previous system was inefficient, ineffective, and had issues with redundancy and consistency. It was also expensive, difficult to maintain, required more labour, and could not handle large records.
 
@@ -6,11 +6,11 @@
 
 ## The main modules which are focused on this project:
 
-# Admin Management
-# Student management
-# Faculty management
-# User registration
-# Internal Marks of students
-# Attendance of students
-# Reports of students’ tests
+### Admin Management
+### Student management
+### Faculty management
+### User registration
+### Internal Marks of students
+### Attendance of students
+### Reports of students’ tests
 
