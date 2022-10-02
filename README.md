@@ -13,14 +13,37 @@ The main modules which are focused on this project:
 -Attendance of students \
 -Reports of students’ tests \
 
+### Website URL:
+https://importal.azurewebsites.net/
+
+
+
 ## Screenshots
 
-1) Add Admin
+--> Admin Login
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AdminLogin.jpeg)
+
+--> Student Faculty Login
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/Student_Faculty_Login.jpeg)
+
+--> Admin Dashboard
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AdminDashboard.jpeg)
+
+--> Faculty Dashboard
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/FacultyDashboard.jpeg)
+
+--> Student Dashboard
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/StudentDashboard.jpeg)
+
+--> Add Admin
 ![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AddAdmin.jpeg)
 
-2) Add Faculty
-![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AddAdmin.jpeg)
+--> Add Faculty
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AddFaculty.jpeg)
 
-3) Add Student
+--> Add Student
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AddStudent.jpeg)
 
-4) Add Subject
+--> Mark Attendence
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/MarkAttendence.jpeg)
+
