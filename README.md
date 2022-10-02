@@ -16,7 +16,18 @@ The main modules which are focused on this project:
 ### Website URL:
 https://importal.azurewebsites.net/
 
-
+### Test Accounts :
+	Admin:
+	RegNo: ADM202201000
+	Pass: 27-01-2001
+	
+	Faculty:
+	RegNo: FAC202203000 
+	Pass:	27-09-2001
+	
+	Student:
+	RegNo:	STU202203000
+	Pass:	27-09-2001
 
 ## Screenshots
 
