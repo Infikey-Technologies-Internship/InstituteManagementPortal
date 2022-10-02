@@ -15,4 +15,12 @@ The main modules which are focused on this project:
 
 ## Screenshots
 
-![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AddAdmin.jpeg "Add Admin")
+1) Add Admin
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AddAdmin.jpeg)
+
+2) Add Faculty
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AddAdmin.jpeg)
+
+3) Add Student
+
+4) Add Subject
