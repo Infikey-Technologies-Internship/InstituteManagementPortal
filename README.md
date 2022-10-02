@@ -35,7 +35,7 @@ https://importal.azurewebsites.net/
 ![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AdminLogin.jpeg)
 
 --> Student Faculty Login
-![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/Student_Faculty Login.jpeg)
+![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/Student_Faculty%20Login.jpeg)
 
 --> Admin Dashboard
 ![Alt text](https://github.com/Infikey-Technologies-Internship/InstituteManagementPortal/blob/master/screenshots/AdminDashboard.jpeg)
